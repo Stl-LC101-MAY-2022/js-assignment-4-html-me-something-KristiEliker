@@ -1,1 +1,12 @@
-/* Write your CSS here! */
+body {
+    display:block;
+    margin: 8px;
+    background-color:lavenderblush;
+    margin-bottom: 100px;
+}
+#mainHeading {
+    color:darkred;
+    text-align: center;
+    border-style:dashed
+    border-width: 3px;
+}
