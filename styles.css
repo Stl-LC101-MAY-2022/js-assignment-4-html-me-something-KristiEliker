@@ -1,17 +1,25 @@
 body {
     display:block;
     margin: 8px;
-    background-color:lavenderblush;
-    margin-bottom: 100px;
+    padding: 4px;
+    background-color:lightgray;
 }
 #mainHeading {
     color:red;
-    text-align: center;
-    border-style:dashed;
+    text-align:center;
+    border-style:5px dashed;
     border-width: 3px;
 }
-
+h1 {
+    color:red;
+    border-bottom: 2px solid black;
+    padding: 30px;
+}
 p {
     font-size: medium;
     font-family:fantasy;
+}
+
+.funParagraph {
+    color: green;
 }
